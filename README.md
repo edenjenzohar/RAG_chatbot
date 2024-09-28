@@ -4,7 +4,7 @@
 
 Although Large Language Models (LLMs) are powerful and capable of generating creative content, they can produce outdated or incorrect information as they are trained on static data. To overcome this limitation, Retrieval Augmented Generation (RAG) systems can be used to connect the LLM to external data and obtain more reliable answers.
 
-The aim of this project is to build a RAG chatbot in Langchain powered by [OpenAI](https://platform.openai.com/overview). You can upload documents in txt, pdf, or docx formats and chat with your data. Relevant documents will be retrieved and sent to the LLM along with your follow-up questions for accurate answers.
+The aim of this project is to build a RAG chatbot in Langchain powered by [OpenAI](https://platform.openai.com/overview). You can upload documents in txt or pdf formats and chat with your data. Relevant documents will be retrieved and sent to the LLM along with your follow-up questions for accurate answers.
 
 
 ![RAG Architecture](https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/659f82867f92a9d5b24ad1f7_llamaindexlangchain.webp)  
